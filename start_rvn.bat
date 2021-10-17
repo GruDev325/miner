@@ -1,0 +1,1 @@
+nbminer -a kawpow -o stratum+tcp://rvn-pool.beepool.org:9531 -u 0x1508ad81fad1d481005b34470699c372b8f6a2c4.grudev
